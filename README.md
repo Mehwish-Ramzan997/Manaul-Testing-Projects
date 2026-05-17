@@ -15,7 +15,7 @@
 |  App Type | E-Commerce / Product Store |
 |  Testing Type | Manual Testing |
 |  Test Date | May 2026 |
-|  Tester | QA Engineer |
+|  Tester | Mehwish Ramzan |
 
 ---
 
