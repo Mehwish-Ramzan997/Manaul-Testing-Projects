@@ -1,10 +1,6 @@
 ## Demoblaze.com — Manual Testing Project
 
-![Testing](https://img.shields.io/badge/Testing-Manual-blue)
-![Status](https://img.shields.io/badge/Status-Completed-green)
-![TCs](https://img.shields.io/badge/Test%20Cases-34-orange)
-![Pass](https://img.shields.io/badge/Pass-25-brightgreen)
-![Fail](https://img.shields.io/badge/Fail-9-red)
+
 
 
 ## Project Overview
